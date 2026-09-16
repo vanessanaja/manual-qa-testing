@@ -19,6 +19,7 @@ Testing currently includes:
 ## Portfolio Artifacts
 
 - [SauceDemo Cart Exploratory Testing](exploratory-testing/saucedemo-cart-exploration.md)
+- [SauceDemo Cart Navigation Bug Report](bug-reports/saucedemo-cart-loading-bug.md)
 
 ## Skills Demonstrated
 
