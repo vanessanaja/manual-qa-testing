@@ -41,7 +41,3 @@ Reproduced consistently across 5+ attempts and with more than one product.
 ## Severity
 
 Medium
-
-## Reproducibility
-
-Reproduced 3 out of 3 attempts.

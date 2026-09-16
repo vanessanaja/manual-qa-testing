@@ -8,12 +8,15 @@ This repository contains hands-on manual QA practice focused on exploratory test
 
 Exploratory testing of shopping cart behavior in SauceDemo.
 
-Testing currently includes:
+Testing includes:
 
 - Add-to-cart behavior
-- Cart badge updates
-- Loading-state behavior
-- Cart navigation
+- Cart navigation and loading states
+- Cart badge and quantity updates
+- Multiple-item cart behavior
+- Cart notes and persistence
+- Checkout form validation
+- Payment success and failure simulations
 - Refresh and recovery behavior
 
 ## Portfolio Artifacts
@@ -26,7 +29,9 @@ Testing currently includes:
 
 - Exploratory testing
 - Functional testing
-- Identifying unexpected behavior
-- Documenting test observations
-- Reproducing user flows
+- Positive and negative testing
+- Boundary and validation testing
+- Bug reporting
+- Test documentation
+- Reproducing defects
 - Git and GitHub workflow
